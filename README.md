@@ -7,7 +7,9 @@ In this repository I want to share a small project that I carried out in my comm
 
 Since people's movements were very limited, the purpose was to create a database with the exact locations of each of the people willing to help their neighbours, as well as those neighbours requesting some kind of support, so that we could put in contact those Volunteer/requester pairs geographically close.
 
-We created a network of volunteers, which you could join by simply filling in a form that we distributed by Whatsapp. From there, I developed a very simple App in Python that allowed me to access the data hosted in Google Sheets from the form and, through a google geolocator, generate a map that allowed me to know, in a very visual way, which volunteers were closer to the applicant. Finally, I would contact both parties and arrange an appointment. In this way, we did the shopping, took out the rubbish, walked dogs and brought medicine and food to more than 50 people in our community.
+We created a network of volunteers, which you could join by simply filling in a form that we distributed by Whatsapp. From there, I developed a very simple App in Python that allowed me to access the data hosted in Google Sheets from the form and, through a google geolocator, generate a map that allowed me to know, in a very visual way, which volunteers were closer to the applicant. Finally, I would contact both parties and arrange an appointment. In this way, we did the shopping, took out the rubbish, walked dogs and brought medicine and food to more than 50 people in our community. It should look something like this.
+![image](https://github.com/borjagamboa/Volunteering_App/assets/39519194/e208aab3-6572-4d6d-aa38-81dce828bf7f)
+
 
 I just wanted to share the code here for my personal record. It is very simple, a probably full of possible improvements. It worked though, and I am really proud of it.
 
