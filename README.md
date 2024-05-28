@@ -11,7 +11,7 @@ We created a network of volunteers, which you could join by simply filling in a 
 ![image](https://github.com/borjagamboa/Volunteering_App/assets/39519194/e208aab3-6572-4d6d-aa38-81dce828bf7f)
 
 
-I just wanted to share the code here for my personal record. It is very simple, a probably full of possible improvements. It worked though, and I am really proud of it.
+I just wanted to share the code here for my personal record. It is very simple and full of possible improvements. It worked though, and I am really proud of it.
 
 Very grateful to all the volunteers and to the power of Python🐍.
 
